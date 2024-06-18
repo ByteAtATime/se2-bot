@@ -1,0 +1,17 @@
+- keywords: [hugomrdias, hugomrdias_error, apollo_unpack]
+  response: >
+    In the root of your Scaffold-ETH repo (<b>not</b> in
+    <code>packages/*</code>), you should have a <code>yarn.lock</code> file. In
+    this file, you can use the find-and-replace feature of your text editor to
+    replace all instances of <code>hugomrdias</code> with <code>maxogden</code>.
+    Then, run <code>yarn install</code> to update your dependencies.
+
+
+    Alternatively, update your Scaffold-ETH repository, as this issue is
+    resolved in the latest version.
+- keywords: [sepolia, sepolia-faucet, bg-faucet, faucet]
+  response: >
+    If you're a member of the BuidlGuidl, you may go to <a
+    href="https://sepolia.buidlguidl.com">https://sepolia.buidlguidl.com</a> to
+    get some Sepolia ETH. If you're not a member, you can join the BuidlGuidl by
+    going to <a href="https://buidlguidl.com">https://buidlguidl.com</a>.
