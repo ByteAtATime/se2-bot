@@ -3,7 +3,7 @@
     In the root of your Scaffold-ETH repo (<b>not</b> in
     <code>packages/*</code>), you should have a <code>yarn.lock</code> file. In
     this file, you can use the find-and-replace feature of your text editor to
-    replace all instances of <code>hugomrdias</code> with <code>maxogden</code>.
+    replace all instances of <code>hugomrdias</code> with <code>max-mapper</code>.
     Then, run <code>yarn install</code> to update your dependencies.
 
 
